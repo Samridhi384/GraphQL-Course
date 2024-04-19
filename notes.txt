@@ -1,0 +1,4 @@
+GraphQL, is a query language. So it's a language where we query for data, but we have the ability to ask for exactly what we want. It prevents under fetching and over fetching both.
+
+Authentication means to determine the identity
+and authoruization is whether u have specific access or not
